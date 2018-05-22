@@ -1,0 +1,21 @@
+body,h1,h3,h4{
+	margin: 0;
+	padding: 0;
+}
+input{
+	padding: 0;
+	margin: 0;
+}
+ul,li{
+	margin: 0;
+	padding: 0;
+	list-style: none;
+}
+a{
+	text-decoration: none;
+	color: #3C3C3C;
+	font:12px "宋体";
+}
+img{
+	vertical-align: top;
+}

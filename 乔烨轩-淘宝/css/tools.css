@@ -1,0 +1,300 @@
+.margin-auto{
+	margin: 0 auto;
+	width: 1190px;
+}
+.clear:after{
+	content: "";
+	display: block;
+	clear: both;
+}
+.float-left{
+	float:left;
+}
+.float-right{
+	float:right;
+}
+.display{
+	display: block;
+}
+.cursor{
+	cursor: pointer;
+}
+.pic-link{
+	background: url(../images/h3-1.png) no-repeat;
+}
+.in-bk{
+	display: inline-block;
+}
+/*边距类*/
+#box .nomargin-r{
+	margin-right: 0;
+}
+.mt-1{
+	margin-top: -1px;
+}
+.mr-1{
+	margin-right: -1px;
+}
+.mr-2{
+	margin-right: -2px;
+}
+.mr2{
+	margin-right: 2px;
+}
+.mb2{
+	margin-bottom: 2px;
+}
+.mr3{
+	margin-right: 3px;
+}
+.mb10{
+	margin-bottom: 10px;
+}
+.mr10{
+	margin-right: 10px;
+}
+.mt10{
+	margin-top: 10px;
+}
+.ml46{
+	margin-left: 46px;
+}
+.ml20{
+	margin-left: 20px;
+}
+.mt14{
+	margin-top: 14px;
+}
+.mr11{
+	margin-right: 11px;
+}
+.mr14{
+	margin-right: 14px;
+}
+.mr15{
+	margin-right: 15px;
+}
+.mt15{
+	margin-top: 15px;
+}
+.mb14{
+	margin-bottom: 14px;
+}
+.pt10{
+	padding-top:10px ;
+}
+.ptl20{
+	padding-top:20px ;
+	padding-left:20px ;
+}
+.pl20{
+	padding-left:20px ;
+}
+.pl6{
+	padding-left: 6px;
+}
+.pt3{
+	padding-top: 3px;
+}
+.plr31{
+	padding:0 31px;
+}
+.plr23{
+	padding:0 23px;
+}
+.pic-link{
+	margin-right: 11px;
+}
+.ptlr20{
+	padding: 20px 20px 0 20px;
+}
+/*边框类*/
+.noborderleft{
+	border-left:none ;
+}
+.nobordertop{
+	border-top:none ;
+}
+#box .noborderright{
+	border-right:none ;
+}
+#box .noborderbottom{
+	border-bottom:none ;
+}
+.border-rb{
+	border-right:1px solid #ebebeb ;
+	border-bottom:1px solid #ebebeb ;
+}
+.border-tr{
+	border-top:1px solid #ebebeb ;
+	border-right:1px solid #ebebeb ;
+}
+.border-r{
+	border-right:1px solid #ebebeb ;
+}
+.br-pr22{
+	border-right: 1px solid #FFFFFF;
+	padding-right:22px ;
+}
+#box .bdcolor-28abff{
+	border-left-color:#28abff;
+}
+.bb{
+	border-bottom:1px solid #F4F4F4 ;
+}
+/*文字类*/
+.fontcolor-6c{
+	color:#6c6c6c ;
+}
+.fontcolor-ff5000{
+	color:#ff5000 ;
+}
+.fontcolor-ff1648{
+	color:#ff1648;
+}
+.fontcolor-a1a1a1{
+	color: #a1a1a1;
+}
+.fontcolor-999{
+	color: #999999;
+}
+.fonts12{
+	font-size: 12px;
+}
+.color-ff0055{
+	color:#ff0055;
+}
+.color-8d7afb{
+	color:#8d7afb;
+}
+.color-a8c001{
+	color:#a8c001;
+}
+.color-ff4400{
+	color:#ff4400;
+}
+#box .fontcolor-28abff{
+	color: #28abff;
+}
+/*雪碧图*/
+.nav-top-right .bp-12{
+	background-position:0 -12px;
+	margin-right: 6px;
+	margin-left: 2px;
+}
+.nav-top-right .bp-24{
+	background-position:0 -24px;
+	margin-right: 6px;
+	margin-left: 2px;
+}
+.nav-top-right .bp-36{
+	background-position:0 -36px;
+	margin-right: 6px;
+	margin-left: 2px;
+}
+.service .bp-24{
+	background-position:0 -24px;
+}
+.service .bp-48{
+	background-position:0 -48px;
+}
+.service .bp-72{
+	background-position:0 -72px;
+}
+.service .bp-96{
+	background-position:0 -96px;
+}
+.service .bp-120{
+	background-position:0 -120px;
+}
+.service .bp-144{
+	background-position:0 -144px;
+}
+.service .bp-168{
+	background-position:0 -168px;
+}
+.service .bp-192{
+	background-position:0 -192px;
+}
+.service .bp-216{
+	background-position:0 -216px;
+}
+.service .bp-240{
+	background-position:0 -240px;
+}
+.service .bp-264{
+	background-position:0 -264px;
+}
+#box .bp-36{
+	background-position:0 -36px;
+}
+#box .bp-72{
+	background-position:0 -72px;
+}
+#box .bp-108{
+	background-position:0 -108px;
+}
+#box .bp-39{
+	background-position:0 -39px;
+}
+#box .bp-116{
+	background-position:0 -116px;
+}
+/*固定宽高类*/
+.w129h67{
+	width: 129px;
+	height: 67px;
+}
+.w129h62{
+	width: 129px;
+	height: 62px;
+}
+.w71{
+	width: 71px;
+}
+.w72{
+	width: 72px;
+}
+.w20h20{
+	width: 20px ;
+	height: 20px;
+}
+.w160h27{
+	width: 160px;
+	height: 27px;
+	margin-top: 7px;
+}
+.h357{
+	height: 357px;
+}
+.h118{
+	height: 118px;
+}
+.h238{
+	height: 238px;
+}
+/*固定样式类*/
+.fixed-head{
+	margin-bottom:20px;
+}
+.fixed-head2{
+	margin-bottom: 14px;
+	font:bold 18px/18px "微软雅黑";
+	padding-left: 9px;
+	border-left: 4px solid #8558d6;
+	color: #ad45df;
+	margin-top: 21px;
+	margin-left: 20px;
+	background: url(../images/h3-2.png) no-repeat;
+}
+.mian-ico{
+	display: inline-block;
+	background: url(../images/mian-ico.png) no-repeat;
+}
+.lineh37{
+	line-height: 37px;
+}
+/*背景颜色*/
+.bgffe4dc{
+	background-color: #ffe4dc;
+}
